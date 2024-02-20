@@ -1,4 +1,4 @@
-package frontend-login
+package frontend-login;
 
 /**
  * Hello world!
