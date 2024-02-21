@@ -1,4 +1,4 @@
-package frontend-login;
+package frontendlogin;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
